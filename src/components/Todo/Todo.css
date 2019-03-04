@@ -1,0 +1,33 @@
+.todo-item {
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.todo-status {
+  flex: 1;
+  text-align: center;
+}
+
+.todo-item .text-wrapper {
+  overflow: hidden;
+  display: flex;
+  flex: 6;
+  justify-content: space-around;
+  padding-right: 0.5rem;
+}
+
+.todo-item .text-wrapper .text-des {
+  flex: 2;
+  overflow: hidden;
+}
+
+.todo-item .text-wrapper .text-con {
+  flex: 1;
+  overflow: hidden;
+}
+
+.text--line {
+  text-decoration: line-through #bfbfbf;
+  color: #bfbfbf;
+}

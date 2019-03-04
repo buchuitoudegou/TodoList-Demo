@@ -1,0 +1,15 @@
+#filter-container {
+  display: flex;
+  justify-content: space-around;
+  border-bottom-style: solid;
+  border-bottom-color: #1890ff;
+  margin-bottom: 1rem;
+}
+
+.filter {
+  cursor: pointer;
+}
+
+.filter--active {
+  color: #1890ff;
+}

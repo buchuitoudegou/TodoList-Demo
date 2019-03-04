@@ -1,0 +1,12 @@
+#add-todo-container {
+  padding: 10px;
+  height: 100%;
+}
+#add-todo-container label {
+  display: block;
+  margin: 0.5rem 0 0.5rem 0;
+}
+#add-todo-container button {
+  display: block;
+  margin: 0.5rem 0 0.5rem 0;
+}
