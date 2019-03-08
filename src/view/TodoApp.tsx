@@ -15,7 +15,7 @@ export default function TodoApp() {
         Header
       </Header>
       <Content style={{ padding: '0 50px', display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
-        <Layout style={{ padding: '24px 0', background: '#fff', height: '80%' }}>
+        <Layout style={{ padding: '24px', background: '#fff', height: '80%' }}>
           <Sider id='sider' style={{ background: '#fff' }}>
             <AddTodo />
           </Sider>
