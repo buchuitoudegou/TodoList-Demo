@@ -22,4 +22,6 @@ yarn build
 * Learn about some basic mechanism and instructions of React.
 
 ## Last Update
-2019/3/8
+2019/3/8 init
+
+2019/4/19 test CI/CD
